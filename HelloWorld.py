@@ -8,3 +8,4 @@ if __name__ == '__main__':
     print 'try my luck with VCS integration.'
     print 'hello, I\'m back, again.'
     print 'have a great day!'
+    print 'start of branch2'
